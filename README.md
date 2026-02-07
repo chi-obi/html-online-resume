@@ -1,5 +1,4 @@
 # html-online-resume
-Online Resume 
 The goal was to create a comprehensive multi-page website employing proper HTML structure and CSS Styling.
 Website Structure: 
  -Organized content into multipage web pages i.e Hobbies, Contact Me. 
